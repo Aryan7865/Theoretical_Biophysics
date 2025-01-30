@@ -12,7 +12,7 @@ epsilon along the arclength in the respective phase-spaces for the given start a
 Note: scan be parameter in the range (0.1, 1.5) with an increment of 0.1
 .
 
-BS22B001 \\
+
 initial conditions: {P,X,V,S,E} = {0,0,0,1,1} at tau = 0, Euler delta tau = 0.1 \\
 ARC LENGTH START tau = 0.2 ATCLENGTH END tau = 4.8 \\
 P,V
